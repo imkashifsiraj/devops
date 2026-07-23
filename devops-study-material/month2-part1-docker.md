@@ -1,6 +1,6 @@
 # Month 2 - Part 1: Docker & Containerization
 
-> **DevOps Upskilling Program — GCC Job Market Focus**
+> **DevOps Upskilling Program — Job Market Focus**
 > Comprehensive study material covering containers, Docker architecture, images, networking, volumes, Compose, security, and best practices.
 
 ---
