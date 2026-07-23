@@ -2000,5 +2000,5 @@ terraform console       → Interactive REPL
 
 ---
 
-*Last updated: July 2026 | Created for the GCC DevOps Upskilling Program*
+*Last updated: July 2026 | Created for the DevOps Upskilling Program*
 *Next: Month 3 Part 2 — Terraform Advanced Patterns, Terragrunt, and Policy as Code*
