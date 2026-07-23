@@ -1,6 +1,6 @@
 # Month 3 - Part 1: Terraform (Infrastructure as Code)
 
-> **DevOps Upskilling Program — GCC Job Market Focus**
+> **DevOps Upskilling Program — Job Market Focus**
 > Comprehensive study material covering Terraform fundamentals through advanced patterns.
 
 ---
