@@ -21,7 +21,7 @@ Linux is a free, open-source operating system kernel created by Linus Torvalds i
 
 **Common Distributions:**
 - Ubuntu/Debian — Most popular for cloud, great community
-- RHEL/CentOS/Rocky/AlmaLinux — Enterprise, used in banking/government (GCC)
+- RHEL/CentOS/Rocky/AlmaLinux — Enterprise, used in banking/government
 - Amazon Linux — AWS default
 - Alpine — Minimal, used in containers
 
@@ -732,7 +732,7 @@ Ctrl+B then n/p                        # Next/previous window
 | The Linux Command Line (book) | https://linuxcommand.org/tlcl.php | Free PDF book |
 | ExplainShell | https://explainshell.com | Paste any command to understand it |
 | KodeKloud Linux Basics | https://kodekloud.com | Free tier available |
-| Red Hat System Admin (videos) | YouTube: "RHCSA" | RHEL-focused (GCC enterprise) |
+| Red Hat System Admin (videos) | YouTube: "RHCSA" | RHEL-focused (enterprise) |
 | Ubuntu Server Guide | https://ubuntu.com/server/docs | Official documentation |
 | Linux From Scratch | https://www.linuxfromscratch.org | Deep understanding (advanced) |
 
