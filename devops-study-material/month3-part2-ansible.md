@@ -1951,5 +1951,5 @@ steps:
 
 ---
 
-*Study Material prepared for DevOps Upskilling Program — GCC Market Focus*
+*Study Material prepared for DevOps Upskilling Program — Job Market Focus*
 *Last updated: July 2026*
