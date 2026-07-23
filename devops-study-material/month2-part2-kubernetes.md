@@ -1,6 +1,6 @@
 # Month 2 Part 2: Kubernetes (K8s) — Complete Study Guide
 
-> **DevOps Upskilling Program — GCC Job Market Focus**
+> **DevOps Upskilling Program — Job Market Focus**
 > Master container orchestration with Kubernetes for production-grade deployments.
 
 ---
